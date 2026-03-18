@@ -57,7 +57,7 @@ const Contact = () => {
               Designed and Developed <br /> by <span>Joel Jose</span>
             </h2>
             <h5>
-              <MdCopyright /> 2025
+              <MdCopyright /> 2026
             </h5>
           </div>
         </div>
