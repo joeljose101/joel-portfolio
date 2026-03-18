@@ -1,16 +1,28 @@
-# My Portfolio Wesbite - Overview 🚀
+# 🌐 My Portfolio Website
 
-This repository contains the open source version of my porfolio website.
-Do check it out!
+<p align="center">
+  <img src="assets/preview.png" alt="Portfolio Preview" width="900"/>
+</p>
 
-## Instructions 🛠️
+A modern, responsive portfolio website showcasing my projects, skills, and experience as a Software Engineer. Built with a focus on performance, smooth animations, and clean UI.
 
-I have modified the gsap club plugins with the trial plugins, but with the trial plugin you cannot host it🔴. So for Club plugins, Check out here: https://gsap.com/docs/v3/Installation/
+---
 
-**Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
+## 📌 Overview
 
-![Portfolio-Preview](public/images/preview.png)
+This project represents my personal portfolio where I highlight:
+- 💼 Professional experience  
+- 🧠 Technical skills  
+- 🛠️ Featured projects  
+- 📬 Contact information  
 
-## License
+The goal of this portfolio is to present my work in an interactive and visually appealing way while maintaining strong performance and scalability.
 
-This project is open source and available under the [MIT License](LICENSE).
+---
+
+## ⚙️ Tech Stack
+
+- **Frontend:** React, TypeScript  
+- **Animations:** GSAP  
+- **3D & Graphics:** Three.js, WebGL  
+- **Styling:** HTML, CSS, JavaScript  
